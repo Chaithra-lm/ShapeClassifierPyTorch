@@ -2,6 +2,11 @@
 
 ## Overview
 
+## Project Description:
+This project builds a synthetic dataset of geometric shapes (circles, squares, triangles) under varying size and rotation conditions, trains a deep learning model (ResNet-18) to classify the shapes, and evaluates its true generalization by holding out one condition (random size & rotation). The entire workflow—from data generation and preprocessing through model training, validation, and visualization—is orchestrated in a single interactive notebook (classifier.ipynb).
+
+## Overview
+
 This repository implements a complete pipeline for synthetic geometric shape classification using PyTorch, all contained within the `classifier.ipynb` notebook. You’ll find:
 
 ```
