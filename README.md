@@ -59,10 +59,8 @@ All steps—from dataset generation through model training, evaluation, and visu
 
 ## Author
 
-Project done by **Chaithra Lokasara Mahadevaswamy**
-
-**AI Enthusiast** | 🧠 **Data Alchemist** | 🎓 **Graduate Researcher** | 🚀 **Innovation Seeker**
-
-**AI Tools Research Intern @ Unicorn Tutor AI**
-
-**Chang Gung University**
+**Chaithra Lokasara Mahadevaswamy**  
+[LinkedIn Profile](https://www.linkedin.com/in/chaithra-lokasara-mahadevaswamy-5bb076214/) 
+🧠 **AI Enthusiast** | 📊 **Data Alchemist** | 🎓 **Graduate Researcher**  
+🚀 **Innovation Seeker** | 🌟 **AI Tools Research Intern @ Unicorn Tutor AI**  
+**_"Building Tomorrow with Intelligence Today"_**
